@@ -11,12 +11,13 @@ Data from [sofifa.com](https://sofifa.com/) includes detailed information on all
 * **Target:** Salary (or Annual Wage)
 * **Features Used:** Position (dummy variables for forward, midfield, goalkeeper. Defender variable dropped), age, overall rating, short passing, reactions, long passing, show power, ball control, volleys, stamina, overall rating inverse, overall rating squared, reactions squared, forward shot (combo of forward dummy variable and shot power)
 
-## Tools Used
+## Tools & Techniques Used
 
 #### *For Web-Scraping:*
-* Beautiful Soup (Selenium code present, but not used in final build)
+* Beautiful Soup 
 
 #### *For Regression:*
+* Scikit-Learn
 * Simple Linear Regression
 * Multi-variate Linear Regression (without Cross-Validation_)
 * LASSO Linear Regression (Ridge code present, but not used in final build)
