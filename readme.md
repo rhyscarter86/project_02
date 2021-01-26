@@ -19,7 +19,7 @@ Data from [sofifa.com](https://sofifa.com/) includes detailed information on all
 #### *For Regression:*
 * Scikit-Learn
 * Simple Linear Regression
-* Multi-variate Linear Regression (without Cross-Validation_)
+* Multi-variate Linear Regression (without Cross-Validation)
 * LASSO Linear Regression (Ridge code present, but not used in final build)
 
 ## Analysis Limitations
